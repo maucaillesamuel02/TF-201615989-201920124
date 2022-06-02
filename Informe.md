@@ -21,6 +21,3 @@ de su longitud y factor de tráfico calculado. Actividades de implementación de
 alternativas.
 4. Actividades de implementación de interfaz de usuario. Actividades de implementación de visualización del mapa y las rutas usando su implementación de grafo y algoritmos.
 5. Actividades finales de la aplicación, corrección de errores y puesta a punto
-
-## Conclusiones
-Los sistemas de búsquedas de ruta facilitan la navegación en áreas extensas como las ciudades de manera efectiva. Los grafos y su propiedades ayudan a implementar esta tecnología de manera amplia con diversas aplicaciones en el día a día de millones de personas.
