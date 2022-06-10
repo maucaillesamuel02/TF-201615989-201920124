@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Thu Jun  9 19:36:55 2022
 
-This is a temporary script file.
+@author: Samuel
 """
 
 import osmnx as ox
