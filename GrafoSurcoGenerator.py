@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  9 19:36:55 2022
-
-@author: Samuel
-"""
 
 import osmnx as ox
 
